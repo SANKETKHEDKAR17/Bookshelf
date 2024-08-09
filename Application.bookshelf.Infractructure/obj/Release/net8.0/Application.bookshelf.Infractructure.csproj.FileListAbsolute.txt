@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\bin\Release\net8.0\Application.bookshelf.Infractructure.deps.json
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\bin\Release\net8.0\Application.bookshelf.Infractructure.dll
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\bin\Release\net8.0\Application.bookshelf.Infractructure.pdb
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\obj\Release\net8.0\Application.bookshelf.Infractructure.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\obj\Release\net8.0\Application.bookshelf.Infractructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\obj\Release\net8.0\Application.bookshelf.Infractructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\obj\Release\net8.0\Application.bookshelf.Infractructure.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\obj\Release\net8.0\Application.bookshelf.Infractructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\obj\Release\net8.0\Application.bookshelf.Infractructure.dll
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\obj\Release\net8.0\refint\Application.bookshelf.Infractructure.dll
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\obj\Release\net8.0\Application.bookshelf.Infractructure.pdb
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\obj\Release\net8.0\ref\Application.bookshelf.Infractructure.dll
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Infractructure\obj\Release\net8.0\Application.bookshelf.Infractructure.sourcelink.json

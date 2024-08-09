@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\bin\Release\net8.0\Application.bookshelf.Core.deps.json
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\bin\Release\net8.0\Application.bookshelf.Core.dll
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\bin\Release\net8.0\Application.bookshelf.Core.pdb
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\obj\Release\net8.0\Application.bookshelf.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\obj\Release\net8.0\Application.bookshelf.Core.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\obj\Release\net8.0\Application.bookshelf.Core.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\obj\Release\net8.0\Application.bookshelf.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\obj\Release\net8.0\Application.bookshelf.Core.dll
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\obj\Release\net8.0\refint\Application.bookshelf.Core.dll
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\obj\Release\net8.0\Application.bookshelf.Core.pdb
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\obj\Release\net8.0\ref\Application.bookshelf.Core.dll
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\obj\Release\net8.0\Application.bookshelf.Core.sourcelink.json
+C:\Users\ADMIN\source\repos\Application.bookshelf\Application.bookshelf.Core\obj\Release\net8.0\Application.bookshelf.Core.csproj.AssemblyReference.cache
